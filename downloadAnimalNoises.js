@@ -1,3 +1,10 @@
+/*
+** Script for download all animal noises from google.
+**
+** 1) Go to google.com and search: 'animal noises'.
+** 2) Open console, copy and paste this code.
+** 3) Run it!
+*/
 var CLASS_CONTAINER = 'ZfSAad';
 var CLASS_ITEM = 'm6cn6';
 var CLASS_NAME = 'b3CYFf';
